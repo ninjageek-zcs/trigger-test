@@ -1,2 +1,2 @@
 # trigger-test
-Jenkins é Bom 3.5
+Jenkins é Bom 3.6
